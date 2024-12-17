@@ -24,18 +24,21 @@ Key Features
     Built with Streamlit, the dashboard provides an intuitive web-based interface accessible locally or over a network. No specialized coding knowledge is needed to interact with the tool.
     Example: Simply run streamlit run app.py and open the dashboard in your web browser. Adjust filters, upload new data, and navigate between charts effortlessly.
 
-Getting Started
+Getting Started:
 
-    Clone the Repository:
+Clone the Repository:
 
-git clone https://github.com/your-username/data-analysis-dashboard.git
-cd data-analysis-dashboard
+    git clone https://github.com/your-username/data-analysis-dashboard.git
+    cd data-analysis-dashboard
+
 
 Set Up the Environment:
 
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-pip install -r requirements.txt
+
+    python -m venv venv
+    source venv/bin/activate  # On Windows: venv\Scripts\activate
+    pip install -r requirements.txt
+    
 
 Run the Dashboard:
 
